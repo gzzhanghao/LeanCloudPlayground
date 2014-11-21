@@ -1,0 +1,1 @@
+exports.output = require('cloud/main');

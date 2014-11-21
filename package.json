@@ -1,0 +1,15 @@
+{
+  "name": "lean-playground",
+  "version": "0.0.1",
+  "description": "A repo for testing leancloud's cloud code APIs.",
+  "main": "cloud/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gzzhanghao/LeanCloudPlayground.git"
+  },
+  "author": "Jason",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gzzhanghao/LeanCloudPlayground/issues"
+  }
+}
